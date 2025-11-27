@@ -5,11 +5,11 @@ I analyzed an employee performance dataset using Excel tools like PivotTables,XL
 Highlights from the analysis:
 
 1.The company achieved 96% of its overall sales target.
-_
+__
 2.HR and Marketing performed the strongest crossing their targets with 110% and 105% achievement.
-_
+__
 3.Finance performed steadily at 94%, while Sales(90%) and IT(83%) showed potential areas for improvement.
-_
+__
 4.Promotion eligibility was automated based on performance data to ensure accurate and consistent results.
-_
+__
 This project shows how structured analysis and data visulization can help identify trends,evaluate performance, and support decision-making.
