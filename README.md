@@ -1,6 +1,6 @@
 # Employee_performance_tracker_Excel
 
-I analyzed an employee performance dataset using Excel tools like PivotTables, XLOOKUP, VLOOKUO and conditional formatting to turn raw data into meaningful insights.
+I analyzed an employee performance dataset using Excel tools like PivotTables, XLOOKUP, VLOOKUP and conditional formatting to turn raw data into meaningful insights.
 
 ## Highlights from the analysis:
 
